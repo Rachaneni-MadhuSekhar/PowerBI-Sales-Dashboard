@@ -1,6 +1,7 @@
 # 🍫Global Chocolate Sales Analytics Dashboard
 
 ## 📊 Project Overview
+
 The Global Chocolate Sales Analytics Dashboard is an interactive Power BI project designed to analyze chocolate sales performance across different products, regions, sales teams, and time periods.
 This dashboard helps businesses monitor revenue, profitability, and sales trends, enabling data-driven decision-making.
 The project demonstrates practical data analytics skills including data modeling, KPI design, and interactive dashboard development.
