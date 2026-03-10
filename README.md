@@ -51,7 +51,7 @@ Category share visualization
 
 ## 🖥Dashboard Preview
 dashboard image here
-![Dashboard](dashboard.png)
+![Dashboard](<img width="1166" height="725" alt="image" src="https://github.com/user-attachments/assets/a29843fe-1f7b-4f96-ad1b-987d164d7cb5" />)
 
 | **Tool** | **Purpose** |
 |----------|-------------|
